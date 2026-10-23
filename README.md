@@ -51,6 +51,14 @@ UE *HGABU30, Mener un projet scientifique* · **Travail de groupe interdisciplin
 
 ![Nombre de piscines privées : 8e vs 13e](figures/04_nombre_piscines_privees.png)
 
+| Ménages en maison et piscines privées, 8e | Ménages en maison et piscines privées, 13e |
+|---|---|
+| ![](figures/12_menages_maison_piscines_8e.png) | ![](figures/13_menages_maison_piscines_13e.png) |
+
+| Logements sociaux et piscines privées, 8e | Logements sociaux et piscines privées, 13e |
+|---|---|
+| ![](figures/10_logements_sociaux_piscines_8e.png) | ![](figures/11_logements_sociaux_piscines_13e.png) |
+
 | Corrélations piscines privées × indicateurs INSEE | Pauvreté des ménages et piscines |
 |---|---|
 | ![](figures/07_correlations_pearson.png) | ![](figures/06_pauvrete_menages_piscines.png) |
@@ -78,7 +86,7 @@ Ce diagnostic rejoint les priorités du plan **« Nager à Marseille »** et la 
 ## Contenu du dépôt
 
 ```
-└── figures/   cartes 8e / 13e, comptages, corrélations, pauvreté, horaires
+└── figures/   cartes 8e / 13e, croisements carroyage INSEE, comptages, corrélations, pauvreté, horaires
 ```
 
 ---
