@@ -5,8 +5,8 @@
 
 ![Piscines privées et municipales, 8e et 13e](figures/01_piscines_8e_13e.png)
 
-**Master 1 Géomatique et modélisation spatiale (GMS)**, Aix-Marseille Université · 2025-2026
-UE *HGABU30, Mener un projet scientifique* · **Travail de groupe interdisciplinaire** : Peycheva, Roussier (COAST), Trambowicz, Soukou (GMS)
+**Master 1 Géomatique et modélisation spatiale (GMS)**, Aix-Marseille Université | 2025-2026
+UE *HGABU30, Mener un projet scientifique* | **Travail de groupe interdisciplinaire** : Peycheva, Roussier (COAST), Trambowicz, Soukou (GMS)
 
 ---
 
@@ -81,14 +81,12 @@ Ce diagnostic rejoint les priorités du plan **« Nager à Marseille »** et la 
 
 ## Outils
 
-`QGIS` · numérisation · carroyage INSEE 200 m · corrélations de Pearson · `Excel`
+`QGIS` | numérisation | carroyage INSEE 200 m | corrélations de Pearson | `Excel`
 
 ## Contenu du dépôt
 
-```
-└── figures/   cartes 8e / 13e, croisements carroyage INSEE, comptages, corrélations, pauvreté, horaires
-```
+- `figures/` : cartes 8e / 13e, croisements carroyage INSEE, comptages, corrélations, pauvreté, horaires
 
 ---
 
-**Auteur :** Ezechiel Agbewanou SOUKOU, géomaticien-urbaniste · [LinkedIn](https://www.linkedin.com/in/ezechiel-soukou) · [Autres projets](https://github.com/ezekielofficiel7-spec)
+**Auteur :** Ezechiel Agbewanou SOUKOU, géomaticien-urbaniste | [LinkedIn](https://www.linkedin.com/in/ezechiel-soukou) | [Autres projets](https://github.com/ezekielofficiel7-spec)
